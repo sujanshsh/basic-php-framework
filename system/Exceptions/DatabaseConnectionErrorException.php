@@ -2,6 +2,9 @@
 
 namespace Exceptions;
 
+/**
+ * @author Sujan Shakya
+ */
 class DatabaseConnectionErrorException extends \Exception
 {
     

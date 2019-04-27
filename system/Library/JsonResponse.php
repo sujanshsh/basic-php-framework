@@ -5,7 +5,7 @@ namespace Library;
 /**
  * *
  *
- * @author shakya.sujan
+ * @author Sujan Shakya
  */
 
 class JsonResponse

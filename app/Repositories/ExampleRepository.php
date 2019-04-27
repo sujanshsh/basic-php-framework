@@ -4,6 +4,9 @@ namespace app\Repositories;
 
 use Library\MySQLDatabase;
 
+/**
+ * @author Sujan Shakya
+ */
 class ExampleRepository
 {
     

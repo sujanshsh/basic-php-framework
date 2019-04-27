@@ -2,6 +2,10 @@
 
 namespace Exceptions;
 
+/**
+ * @author Sujan Shakya
+ */
+
 class SqlParseErrorException extends \Exception
 {
     

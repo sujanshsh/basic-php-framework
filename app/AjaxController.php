@@ -6,6 +6,9 @@ use Library\JsonResponse;
 use Library\MySQLDatabase;
 use app\Repositories\ExampleRepository;
 
+/**
+ * @author Sujan Shakya
+ */
 class AjaxController extends MainController
 {
 

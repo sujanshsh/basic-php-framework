@@ -2,6 +2,9 @@
 
 namespace Library;
 
+/**
+ * @author Sujan Shakya
+ */
 class Config
 {
     
